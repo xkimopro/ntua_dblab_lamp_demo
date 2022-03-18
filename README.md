@@ -7,7 +7,7 @@ A LAMP stack boilerplate code for the 6th semester course of Introduction to Dat
 2) A running HTTP server preferably Apache
 
 # Setup 
-1) Import the world_x database using your prefered client ( MySQL CLI , Terminal, MySQL Workbench, PhpMyAdmin) 
+1) Import the world_x database from [world_x.sql](./sample_data/world.sql) using your prefered client ( MySQL CLI , Terminal, MySQL Workbench, PhpMyAdmin) 
 2) Configure your database credentials in the [database.php](./objects/database.php) connector script.
 3) Place this repository as a whole in your HTTP server's root directory and keep its name intact: ntua_dblab_lamp_demo
     3-1) Apache's root web directory on linux hosts can be found at /var/www/html/ 
