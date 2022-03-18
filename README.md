@@ -2,7 +2,7 @@
 A LAMP stack boilerplate code for the 6th semester course of Introduction to Database Systems 2022. 
 
 
-# Prequisites 
+# Prerequisites 
 1) A running mysql server installed and know its credentials
 2) A running HTTP server preferably Apache
 
